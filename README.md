@@ -13,4 +13,4 @@ Each release contains:
 License: GNU Affero General Public License v3.0. Based on RustDesk, Copyright (c) Purslane Tech Pte. Ltd. and the RustDesk contributors.
 Kisan Remote Flow is not affiliated with or endorsed by the RustDesk project.
 
-키산전자 Kisan Remote Flow 의 배포 저장소입니다. 각 릴리스에는 설치 패키지, 서명된 업데이트 매니페스트, 그 판의 대응 소스가 함께 있습니다.
+기산전자 Kisan Remote Flow 의 배포 저장소입니다. 각 릴리스에는 설치 패키지, 서명된 업데이트 매니페스트, 그 판의 대응 소스가 함께 있습니다.
